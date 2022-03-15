@@ -1,5 +1,5 @@
 #### https://eunice-art.github.io/Delani-Studio/
-##### DElani Studio
+##### Delani Studio
 
 ##### *Project Description*
 <p> A landing page for a fictional studio. 
